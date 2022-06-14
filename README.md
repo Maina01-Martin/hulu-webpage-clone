@@ -1,2 +1,2 @@
-# hulu-webpage-clone
-This is a simple hulu webpage clone
+# Hulu-webpage-clone
+This is a Hulu webpage clone
